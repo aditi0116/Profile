@@ -1,0 +1,33 @@
+html{
+    border-style: double;
+    margin: 80px;
+    padding: 40px;
+    background: yellow;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    border: 50px solid black;
+    border-radius: 30px;
+    padding: 5px;
+    max-width: 50%;
+    height: 50%;
+}
+
+.center{
+    text-align: justify;
+    font-family:monospace;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: blue;
+}
+
+h1{
+    text-align: justify;
+    font-family:monospace;
+    text-align: center;
+    color: blue;
+    text-shadow: 2px 2px 5px;
+}
