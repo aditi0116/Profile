@@ -13,6 +13,7 @@ img{
     padding: 2px;
     max-width: 60%;
     height: 50%;
+    align:center;
 }
 
 .center{
@@ -31,3 +32,4 @@ h1{
     color: blue;
     text-shadow: 2px 2px 5px;
 }
+
